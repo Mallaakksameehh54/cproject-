@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1695268592 source:c:\users\compu tech\desktop\malak project\malak_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+	"STD.h"
+
+1695268545 c:\users\compu tech\desktop\malak project\malak_project\sdb.h
+	"STD.h"
+
+1695268527 c:\users\compu tech\desktop\malak project\malak_project\std.h
+
+1695271171 source:c:\users\compu tech\desktop\malak project\malak_project\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1695270575 source:c:\users\compu tech\desktop\malak project\malak_project\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1695300558 source:c:\users\m\desktop\wetransfer_malak-project_2023-09-21_1224 (1)\malak project\malak_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+	"STD.h"
+
+1695300558 c:\users\m\desktop\wetransfer_malak-project_2023-09-21_1224 (1)\malak project\malak_project\sdb.h
+	"STD.h"
+
+1695300558 c:\users\m\desktop\wetransfer_malak-project_2023-09-21_1224 (1)\malak project\malak_project\std.h
+
+1695300558 source:c:\users\m\desktop\wetransfer_malak-project_2023-09-21_1224 (1)\malak project\malak_project\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
+1695300558 source:c:\users\m\desktop\wetransfer_malak-project_2023-09-21_1224 (1)\malak project\malak_project\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"STD.h"
+	"SDB.h"
+
